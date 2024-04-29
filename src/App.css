@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed:wght@300;400&family=Bellefair&display=swap');
+
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: hsl(209, 23%, 22%);
+    border-radius: 5px;
+}
+
+.animate__animated.animate__fadeIn {
+    --animate-duration: 1s;
+}
